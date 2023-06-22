@@ -8,4 +8,4 @@
 - 🎸 Guitarist / Rock / Prog
 - 💦 CVE-hunter / ~~Eager for CVEs, haven't got one though.~~
 
-[![my Github data](https://github-readme-stats.vercel.app/api?username=AvavaAYA)]()
+<!-- [![my Github data](https://github-readme-stats.vercel.app/api?username=AvavaAYA)]() -->
