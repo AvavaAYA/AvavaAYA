@@ -1,6 +1,6 @@
 ### Hi, I'm eastXueLian 👋
 
-- 🍻 Junior at 🇨🇳 [USTC](https://www.ustc.edu.cn/), _major in Cyber Security_.
+- 🍻 Junior at 🇨🇳 [USTC](http://en.ustc.edu.cn/), _major in Cyber Security_.
 - ⚡ CTFer / PWN:
     - 💫 user-level / glibc / browser
     - 💥 kernel-level / linux
