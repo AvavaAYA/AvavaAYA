@@ -37,4 +37,4 @@
 <!-- [![my Github data](https://github-readme-stats.vercel.app/api?username=AvavaAYA)]() -->
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.7; background-position: right; background-size: cover; background-image: url('https://media.tenor.com/EnhEjxTer8MAAAAM/%E6%9D%B1%E9%9B%AA%E8%93%AE.gif');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.7; background-position: right; background-size: cover; background-image: url('https://github.com/mnixry/mnixry/assets/32300164/0bb6addd-0b3f-4998-9afb-5b2eb2c25614');]{x0000}$}
