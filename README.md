@@ -10,7 +10,7 @@
 
 ## contact way
 
-- 📫 How to reach me: *inva1id AT mail.ustc.edu.cn* (or *zrcui2002 AT outlook.com*)
+- 📫 How to reach me: _inva1id AT mail.ustc.edu.cn_ (or _zrcui2002 AT outlook.com_)
 - 📫 My blog -> [eastXueLian's Blog](https://eastxuelian.nebuu.la)
 - 📑 My resume -> [Zeren Cui's Resume](https://resume.zerencui.com)
 
@@ -35,6 +35,3 @@
 - 🏆 5th place in Tencent’s international CTF competition TCTF/0CTF - RisingStar CTF, 2022.
 
 <!-- [![my Github data](https://github-readme-stats.vercel.app/api?username=AvavaAYA)]() -->
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.7; background-position: right; background-size: cover; background-image: url('https://github.com/mnixry/mnixry/assets/32300164/0bb6addd-0b3f-4998-9afb-5b2eb2c25614');]{x0000}$}
