@@ -10,7 +10,7 @@
 
 ## contact way
 
-- 📫 How to reach me: _inva1id AT mail.ustc.edu.cn_ (or _zrcui2002 AT outlook.com_)
+- 📫 How to reach me: _eastxuelian AT mail.ustc.edu.cn_ (or _zrcui2002 AT outlook.com_)
 - 📫 My blog -> [eastXueLian's Blog](https://eastxuelian.nebuu.la)
 - 📑 My resume -> [Zeren Cui's Resume](https://resume.zerencui.com)
 
@@ -35,3 +35,4 @@
 - 🏆 5th place in Tencent’s international CTF competition TCTF/0CTF - RisingStar CTF, 2022.
 
 <!-- [![my Github data](https://github-readme-stats.vercel.app/api?username=AvavaAYA)]() -->
+![eastXueLian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvavaAYA&show_icons=true&theme=gruvbox)
