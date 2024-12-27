@@ -6,7 +6,11 @@
 
 ### Hi, I'm eastXueLian 👋
 
+<!--
 # I am currently on the lookout for internship opportunities. Please feel free to contact me.
+-->
+
+> I currently work at ByteDance, focusing on mobile security and reverse engineering.
 
 ## contact way
 
