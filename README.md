@@ -14,7 +14,7 @@
 
 ## contact way
 
-- 📫 How to reach me: _eastxuelian AT mail.ustc.edu.cn_ (or _zrcui2002 AT outlook.com_)
+- 📫 How to reach me: _eastxuelian AT google.com_
 - 📫 My blog -> [eastXueLian's Blog](https://eastxuelian.nebuu.la)
 - 📑 My resume -> [Zeren Cui's Resume](https://resume.zerencui.com)
 
