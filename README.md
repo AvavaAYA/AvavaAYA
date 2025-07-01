@@ -14,7 +14,7 @@
 
 ## contact way
 
-- 📫 How to reach me: _eastxuelian AT google.com_
+- 📫 How to reach me: _eastxuelian AT gmail.com_
 - 📫 My blog -> [eastXueLian's Blog](https://eastxuelian.nebuu.la)
 - 📑 My resume -> [Zeren Cui's Resume](https://resume.zerencui.com)
 
